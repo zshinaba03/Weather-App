@@ -1,6 +1,6 @@
 import requests
 
-api_key = os.getenv('OPENWEATHERMAP_API_KEY')
+api_key = 'b6adfba09336e02cf2864406be095413'
 
 user_input = input("Enter City: ")
 
